@@ -1,4 +1,4 @@
-# AdaptiveRockPaperScissors
+# Adaptive Rock Paper Scissors
 Just the general design document, which some aspects carrying over to future games.
 
 ## Core Mechanic
